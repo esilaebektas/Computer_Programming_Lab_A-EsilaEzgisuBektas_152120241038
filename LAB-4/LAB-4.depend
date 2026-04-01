@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1775034762 source:c:\users\excal›bur\computer_programming_lab_a-esilaezgisubektas_152120241038\lab-4\main.cpp
+	<iostream>
+	<string>
+	<stack>
+	<queue>
+
